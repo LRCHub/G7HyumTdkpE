@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アンドロメダアンドロメダ",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-01-04T02:58:06.714779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンドロメダアンドロメダ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/01_アンドロメダアンドロメダ_ナユタン星人.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンドロメダアンドロメダ",
+      "artist": "ナユタン星人×Sou",
+      "has_synced": true,
+      "path": "select/02_アンドロメダアンドロメダ_ナユタン星人×Sou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンドロメダアンドロメダ",
+      "artist": "Nayutalien",
+      "has_synced": false,
+      "path": "select/03_アンドロメダアンドロメダ_Nayutalien.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンドロメダアンドロメダ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_アンドロメダアンドロメダ_ナユタン星人.txt"
+    }
+  ]
+}
